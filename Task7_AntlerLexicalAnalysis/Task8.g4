@@ -5,7 +5,6 @@ grammar Task8;
  */
 test:  (IF|ELSE|ID|NUM|LIT|LP|RP|COMP)+ EOF;
 
-
 IF: [iI][fF];
 ELSE: [eE][lL][sS][eE];
 ID: LETTER+ (DIGIT |LETTER)*;
