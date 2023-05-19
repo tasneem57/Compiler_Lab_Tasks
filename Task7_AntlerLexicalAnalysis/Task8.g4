@@ -1,11 +1,3 @@
-/**
- * Write your info here
- *
- * @name Jane Smith
- * @id 46-0234
- * @labNumber 07
- */
-
 grammar Task8;
 
 /**
