@@ -21,3 +21,6 @@ Context-Free Grammars First.
 
 #### Task6:
 LL(1) Parsing.
+
+#### Task7:
+Lexical analyzer implementation using ANTLR.
